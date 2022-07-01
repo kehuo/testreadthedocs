@@ -1,6 +1,6 @@
-module_1 app_1
-===============
-.. automodule:: src.module_1.app_1
+src.model.lr
+=============
+.. automodule:: src.model.lr
     :members:
     :no-undoc-members:
     :show-inheritance:

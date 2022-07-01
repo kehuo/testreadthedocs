@@ -1,6 +1,6 @@
-module_1 app_2
-===============
-.. automodule:: src.module_1.app_2
+src.data.loader
+================
+.. automodule:: src.data.loader
     :members:
     :no-undoc-members:
     :show-inheritance:
