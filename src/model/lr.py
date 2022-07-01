@@ -7,17 +7,17 @@ class Service(object):
     A test python class, test rst syntax :class:`pandas.TimeStamp`.
 
     Args:
-        name(str): This is to test if 4-char indent will be the expected format for in hte docstring can be
-        parsed by the sphinx.
-        age(int): This is a line without 4-char indent. Compare with the name var where it has a complete 4-char
-        indent that may not support.
+        name(str): This is name, This is name, This is name, This is name, This is name, This is name,
+            This is name, ok reaches new line.
+        age(int): This is age, This is age, This is age, This is age, This is age, This is age, This is age,
+            This is age, ok reaches new line.
 
 
     Attributes:
-        _name(str): This is to test if 4-char indent will be the expected format for in hte docstring can be
-        parsed by the sphinx.
-        _age(int): This is a line without 4-char indent. Compare with the name var where it has a complete 4-char
-        indent that may not support.
+        _name(str): This is name, This is name, This is name, This is name, This is name, This is name,
+            This is name, ok reaches new line.
+        _age(int): This is age, This is age, This is age, This is age, This is age, This is age, This is age,
+            This is age, ok reaches new line.
     """
     def __init__(self, name: str, age: str, job: str):
         self._name = name
