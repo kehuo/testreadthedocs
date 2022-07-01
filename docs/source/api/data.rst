@@ -1,6 +1,6 @@
-module_1
+src.data
 =========
-.. automodule:: src.module_1
+.. automodule:: src.data
     :members:
     :no-undoc-members:
     :show-inheritance:
@@ -8,5 +8,4 @@ module_1
 .. toctree::
     :maxdepth: 4
 
-    module_1.app_1
-    module_1.app_2
+    data.loader

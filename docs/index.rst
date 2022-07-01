@@ -1,14 +1,18 @@
-Welcome to test read the docs.
+test read the docs home page
 ===============================
 
-.. toctree::
-   :maxdepth: 1
-   :caption: 用户指南
+Welcome to the test read the docs home page.
 
-   环境安装 <source/user_guide/readme>
+.. toctree::
+    :maxdepth: 1
+    :caption: 用户指南
+
+    环境安装 <source/guide/environment>
+    模型构建 <source/guide/model>
 
 .. toctree::
     :maxdepth: 1
     :caption: API Reference
 
-    src.module_1 <source/api/module_1>
+    src.model <source/api/model>
+    src.data <source/api/data>
