@@ -1,5 +1,5 @@
-test read the docs home page
-===============================
+Homepage
+=========
 
 Welcome to the test read the docs home page.
 
