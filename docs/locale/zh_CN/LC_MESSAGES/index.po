@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hk debug proj \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-04 14:02+0800\n"
+"POT-Creation-Date: 2022-07-04 15:27+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgstr "环境搭建"
 msgid "Build Model"
 msgstr "构建模型"
 
-#: ../../index.rst:6 dacdf0a8deee4eeca4773fd45e2b6212
+#: ../../index.rst:6 bc6f72c3ffcd43dca53b689d841e57f9
 msgid "User Guide"
 msgstr ""
 
@@ -34,15 +34,16 @@ msgstr ""
 msgid "src.model"
 msgstr ""
 
-#: ../../index.rst:13 2cb4a6c33e4a42e6835ee7b53077a7b7
+#: ../../index.rst:13 66b28c0d747f43d0a8760fd833edea46
 msgid "API Reference"
 msgstr ""
 
-#: ../../index.rst:2 c494ae1ac30a4231935fe79e50604105
+#: ../../index.rst:2 63d9bfc175a0458e984560d8898183ce
 msgid "Homepage"
 msgstr ""
 
-#: ../../index.rst:4 fd3d5e0051714209b9fc7b2ee00421ff
-msgid "Welcome to the test read the docs home page."
-msgstr "欢迎使用 read the docs"
+#: ../../index.rst:4 093547a7b5a94359822d9b1f250e31e4
+#, fuzzy
+msgid "Welcome to the test read the docs home page, add Chinese doc support!"
+msgstr "欢迎使用 read the docs, 增加了中文文档支持！"
 
