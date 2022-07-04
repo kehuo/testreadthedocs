@@ -19,7 +19,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.napoleon",
-    "sphinx_markdown_tables",
+    # "sphinx_markdown_tables",
     "sphinx.ext.viewcode",
     "sphinx.ext.coverage",
     "sphinx.ext.extlinks",
