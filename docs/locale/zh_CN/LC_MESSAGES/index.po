@@ -24,7 +24,7 @@ msgstr "环境搭建"
 
 #: ../../index.rst:6
 msgid "Build Model"
-msgstr ""
+msgstr "构建模型"
 
 #: ../../index.rst:6 dacdf0a8deee4eeca4773fd45e2b6212
 msgid "User Guide"
