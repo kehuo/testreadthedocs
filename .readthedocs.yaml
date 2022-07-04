@@ -23,8 +23,8 @@ python:
   install:
     - method: pip
       path: .
-      requirements: 
-        - requirements/base.txt
-        - requirements/docs.txt
+      requirements:
+        - "requirements/base.txt"
+        - "requirements/docs.txt"
 
   system_packages: true
