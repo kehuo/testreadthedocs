@@ -41,7 +41,7 @@ msgid ""
 "This is name, This is name, This is name, This is name, This is name, "
 "This is name, This is name, ok reaches new line."
 msgstr ""
-"这是名称，写的很长，用于测试是否能正常跨行 "
+"这是名称参数，写的很长，用于测试是否能正常跨行。"
 "这里跨行了～"
 
 #: f76c6bb007ed4d2dbb4d2267739a784b ff18ee98d32542a9a7462edb3bef315c of
