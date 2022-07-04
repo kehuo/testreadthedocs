@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hk debug proj \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-04 14:02+0800\n"
+"POT-Creation-Date: 2022-07-04 17:53+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,15 +18,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
-#: ../../source/get_started/environment.md:1 a6a064b8f3124535811b3f7da2a99e75
+#: ../../source/get_started/environment.md:1 128f08be797a4c088f340b18f58b3bf2
 msgid "User Guide - Environment setup (This is a Markdown doc)"
-msgstr ""
+msgstr "用户指南 - 环境构建"
 
-#: ../../source/get_started/environment.md:3 ec7b506d8ad34eadb41608a986088567
+#: ../../source/get_started/environment.md:3 fc21959f5d384f1db8a076c6cc0c4b9f
 msgid "setup steps"
-msgstr ""
+msgstr "构建步骤"
 
-#: ../../source/get_started/environment.md:4 3a715ec09ecb48db96e307c91a205182
-msgid "balabala"
-msgstr ""
+#: ../../source/get_started/environment.md:4 7fed7d24b94b44c4a3a6c259a2cc2c26
+msgid "some content."
+msgstr "一些内容"
+
 
