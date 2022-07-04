@@ -1,6 +1,6 @@
-src.data
-=========
-.. automodule:: src.data
+src.model
+==========
+.. automodule:: src.model
     :members:
     :no-undoc-members:
     :show-inheritance:
@@ -8,4 +8,5 @@ src.data
 .. toctree::
     :maxdepth: 4
 
-    data.loader
+    src.model.lr
+    src.model.svm
