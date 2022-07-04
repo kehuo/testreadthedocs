@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, hk debug
+# This file is distributed under the same license as the hk debug proj
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hk debug proj \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-04 14:02+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../source/get_started/environment.md:1 a6a064b8f3124535811b3f7da2a99e75
+msgid "User Guide - Environment setup (This is a Markdown doc)"
+msgstr ""
+
+#: ../../source/get_started/environment.md:3 ec7b506d8ad34eadb41608a986088567
+msgid "setup steps"
+msgstr ""
+
+#: ../../source/get_started/environment.md:4 3a715ec09ecb48db96e307c91a205182
+msgid "balabala"
+msgstr ""
+

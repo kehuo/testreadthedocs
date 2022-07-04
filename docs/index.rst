@@ -5,14 +5,13 @@ Welcome to the test read the docs home page.
 
 .. toctree::
     :maxdepth: 1
-    :caption: 用户指南
+    :caption: User Guide
 
-    环境安装 <source/guide/environment>
-    模型构建 <source/guide/model>
+    Environment Setup <source/get_started/environment.md>
+    Build Model <source/get_started/model.md>
 
 .. toctree::
     :maxdepth: 1
     :caption: API Reference
 
-    src.model <source/api/model>
-    src.data <source/api/data>
+    src.model <source/api/src.model>

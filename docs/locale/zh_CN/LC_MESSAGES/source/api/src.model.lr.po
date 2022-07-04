@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, hk debug
+# This file is distributed under the same license as the hk debug proj
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hk debug proj \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-04 14:02+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../source/api/src.model.lr.rst:2 892a3d89434c491d894a272f2ca75090
+msgid "src.model.lr"
+msgstr "中文 src.model.lr"
+
+#: 402caade88ec4fd292c6170ddb82779b of src.model.lr.Service:1
+msgid "Bases: :py:class:`object`"
+msgstr "基类: :py:class:`object`"
+
+#: 553c4993c43b430691f738219d868e09 of src.model.lr.Service:1
+msgid "A test python class, test rst syntax :class:`pandas.TimeStamp`."
+msgstr "一个测试pyhon类，用于测试 rst 语法: :class:`pandas.TimeStamp`"
+
+#: 8c66f62c37c644328b9a4ec564e11396 9416b15395cd49829eea88169cd01a56 of
+#: src.model.lr.Service src.model.lr.Service.run
+msgid "Parameters"
+msgstr ""
+
+#: ebdd8cf0171647a0a0c30fd13eda1607 f596178281684cafad4b9f291b20b2dd of
+#: src.model.lr.Service:3 src.model.lr.Service:12
+msgid ""
+"This is name, This is name, This is name, This is name, This is name, "
+"This is name, This is name, ok reaches new line."
+msgstr ""
+"这是名称，写的很长，用于测试是否能正常跨行 "
+"这里跨行了～"
+
+#: f76c6bb007ed4d2dbb4d2267739a784b ff18ee98d32542a9a7462edb3bef315c of
+#: src.model.lr.Service:6 src.model.lr.Service:19
+msgid ""
+"This is age, This is age, This is age, This is age, This is age, This is "
+"age, This is age, This is age, ok reaches new line."
+msgstr ""
+
+#: 9852a89a90c9403680c0d6eed94f53fa b046cd0815a34ea290ab763e2bf61430 of
+#: src.model.lr.Service
+msgid "type"
+msgstr ""
+
+#: 11e6fd0c95744ec9b7f5f5deec34c408 of src.model.lr.Service:15
+msgid "str"
+msgstr ""
+
+#: 3b1d18770ae54a49939860d012719718 of src.model.lr.Service:22
+msgid "int"
+msgstr ""
+
+#: 169117b88f054af6966dcc87ae6ed081 of src.model.lr.Service.run:1
+msgid "Run the application on the given host."
+msgstr ""
+
+#: ac16ff0c75514295be88cec9f9e42996 of src.model.lr.Service.run:3
+msgid "the host to run the app."
+msgstr ""
+
+#: 5836004ea1cc4bfead896c9c4a03661c of src.model.lr.Service.run:5
+msgid "the port to listen to the request."
+msgstr ""
+
+#: e363e1a14eba4cf4bb8458d3b1a5843f of src.model.lr.Service.run:7
+msgid "if supports timeout, default is not supported."
+msgstr ""
+
+#: 240ff72ad98544c0bd3422ca8f20ffdc of src.model.lr.Service.run
+msgid "Returns"
+msgstr ""
+
+#: b6b2dbc88d5d43a6ba1dd5244bbec0ec of src.model.lr.Service.run:10
+msgid "if runs succeed."
+msgstr ""
+
+#: 246aebd4205d4efbad5d8d2f0d6618b1 of src.model.lr.Service.run
+msgid "Return type"
+msgstr ""
+
+#: 6d1e071123c4410fb7cae51ad5cce581 of src.model.lr.Service.run:14
+msgid "Examples"
+msgstr ""
+

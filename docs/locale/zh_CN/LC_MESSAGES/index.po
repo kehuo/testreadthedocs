@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, hk debug
+# This file is distributed under the same license as the hk debug proj
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hk debug proj \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-04 14:02+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../index.rst:6
+msgid "Environment Setup"
+msgstr "环境搭建"
+
+#: ../../index.rst:6
+msgid "Build Model"
+msgstr ""
+
+#: ../../index.rst:6 dacdf0a8deee4eeca4773fd45e2b6212
+msgid "User Guide"
+msgstr ""
+
+#: ../../index.rst:13
+msgid "src.model"
+msgstr ""
+
+#: ../../index.rst:13 2cb4a6c33e4a42e6835ee7b53077a7b7
+msgid "API Reference"
+msgstr ""
+
+#: ../../index.rst:2 c494ae1ac30a4231935fe79e50604105
+msgid "Homepage"
+msgstr ""
+
+#: ../../index.rst:4 fd3d5e0051714209b9fc7b2ee00421ff
+msgid "Welcome to the test read the docs home page."
+msgstr "欢迎使用 read the docs"
+
