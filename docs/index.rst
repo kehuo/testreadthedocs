@@ -1,7 +1,7 @@
 Homepage
 =========
 
-Welcome to the test read the docs home page.
+Welcome to the test read the docs home page, add Chinese doc support!
 
 .. toctree::
     :maxdepth: 1
