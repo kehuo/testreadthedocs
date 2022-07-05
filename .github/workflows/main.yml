@@ -31,12 +31,12 @@ jobs:
       - name: Install docs dependencies
         working-directory: ./
         run: pip install -r requirements/docs.txt
-      - name: pre-commit
-        uses: pre-commit/action@v2.0.3
-        with:
-          extra_args: --all-files
-      - name: echo-pre-commit-succed
-        working-directory: ./
-        run: echo "pre-commit succeed"
-      - name: git-auto-commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+#       - name: pre-commit
+#         uses: pre-commit/action@v2.0.3
+#         with:
+#           extra_args: --all-files
+#       - name: echo-pre-commit-succed
+#         working-directory: ./
+#         run: echo "pre-commit succeed"
+#       - name: git-auto-commit
+#         uses: stefanzweifel/git-auto-commit-action@v4
