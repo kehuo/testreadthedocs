@@ -93,16 +93,3 @@ msgstr ""
 #: 283947d9661d487999c9418dcd36edc1 of src.model.svm.MockClass.mock:14
 msgid "Examples"
 msgstr ""
-
-#~ msgid ""
-#~ "This is to test if 4-char indent"
-#~ " will be the expected format for "
-#~ "in hte docstring can be"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "This is a line without 4-char "
-#~ "indent. Compare with the name var "
-#~ "where it has a complete 4-char"
-#~ msgstr ""
-
