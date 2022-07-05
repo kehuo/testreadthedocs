@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hk debug proj \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-04 14:02+0800\n"
+"POT-Creation-Date: 2022-07-05 09:40+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,79 +18,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
-#: ../../source/api/src.model.svm.rst:2 0a715ce1d3754f2ba8782de12e6cc26d
+#: ../../source/api/src.model.svm.rst:2 8e1896f1d5804e55aa33ff28b287faae
 msgid "src.model.svm"
 msgstr ""
 
-#: 2717a5eca67c404d9ee2c01d317b22ee of src.model.svm.MockClass:1
+#: 4bc5ce4bdc004c14b03deea806211b35 of src.model.svm.MockClass:1
 msgid "Bases: :py:class:`object`"
 msgstr ""
 
-#: 07e9eb72d5e0428886c3b0f545159ca8 of src.model.svm.MockClass:1
+#: 770d4f39ed244e38a352026432b9794a of src.model.svm.MockClass:1
 msgid "A test python mock class, test rst syntax :class:`pandas.TimeStamp`."
 msgstr ""
 
-#: 3caa122e72fc4df8b79d36b2b264547f d9834de123e54596bc439f3da664fe70 of
+#: 04536644d2e149d2b765a479348fc49c 9847625412e349b0b2697d370d257a66 of
 #: src.model.svm.MockClass src.model.svm.MockClass.mock
 msgid "Parameters"
 msgstr ""
 
-#: eb6d82c6a3a84911898c2441ba8c28ca f84ca5ed9c8c49ce8cc2ae440b7f5511 of
+#: 024214746141459989e806b60e24388e 65ff180763eb414499a1a1548b93b3a6 of
 #: src.model.svm.MockClass:3 src.model.svm.MockClass:12
 msgid ""
 "This is to test if 4-char indent will be the expected format for in hte "
-"docstring can be"
+"docstring can be parsed by the sphinx."
 msgstr ""
 
-#: 3dbdfb01cc5d4020a8b509897e9ca196 bf00507480b34a51a54a01c2ad055cf7 of
-#: src.model.svm.MockClass:6 src.model.svm.MockClass:22
+#: e10a6e83325d443a9037f15b6a6b3d43 f5c1f9425ebf4679a5e7cb1a29350e38 of
+#: src.model.svm.MockClass:6 src.model.svm.MockClass:19
 msgid ""
 "This is a line without 4-char indent. Compare with the name var where it "
-"has a complete 4-char"
+"has a complete 4-char indent that may not support."
 msgstr ""
 
-#: 0b584029f72a443881ee8b79bd9500c2 545d859ae68844259aa0e8d0ea4c0228 of
+#: 78845ed8c6ee4ca5b2dcd0b5b9bbeb25 dbd188c7a7154199ad618b8d9fa1e698 of
 #: src.model.svm.MockClass
 msgid "type"
 msgstr ""
 
-#: 072b178debfd4646ae9e452c099ba073 of src.model.svm.MockClass:14
+#: d680a919ad0147b7b0b9f9bb4aff1fee of src.model.svm.MockClass:15
 msgid "str"
 msgstr ""
 
-#: 0bf6af44327c4d09b0ae3e009be57e24 of src.model.svm.MockClass:24
+#: 652f6179737a4f3ca4c3390997655a8a of src.model.svm.MockClass:22
 msgid "int"
 msgstr ""
 
-#: cacaa4bf298249948f74c363996fa276 of src.model.svm.MockClass.mock:1
+#: b50aefef1a35466abdfcb333f69572ee of src.model.svm.MockClass.mock:1
 msgid "Run the application on the given host."
 msgstr ""
 
-#: e8be6f9e5eef4f47886541764d4566cc of src.model.svm.MockClass.mock:3
+#: 700b9dea2a05453180dfae07a70aa025 of src.model.svm.MockClass.mock:3
 msgid "the host to run the app."
 msgstr ""
 
-#: 34596263fdd2486cb515d7475ea53a57 of src.model.svm.MockClass.mock:5
+#: 29fac95e10874af1a332906386de503a of src.model.svm.MockClass.mock:5
 msgid "the port to listen to the request."
 msgstr ""
 
-#: 889152bd6ba5463fa01705187da62f49 of src.model.svm.MockClass.mock:7
+#: 312e37af598a4c078fb5b5a01094c0d6 of src.model.svm.MockClass.mock:7
 msgid "if supports timeout, default is not supported."
 msgstr ""
 
-#: 33159ab1889d4f78b33608be74800a26 of src.model.svm.MockClass.mock
+#: 937a3ce769904708a08d89885dd34473 of src.model.svm.MockClass.mock
 msgid "Returns"
 msgstr ""
 
-#: 27585cd6b1f640e29fc4bf6dc9e825dd of src.model.svm.MockClass.mock:10
+#: 57d5761aff4c4199ac7648e82365743b of src.model.svm.MockClass.mock:10
 msgid "if runs succeed."
 msgstr ""
 
-#: fcb6ced75f964b309f190b07fcf7d354 of src.model.svm.MockClass.mock
+#: 4b30c84fbe20455fa1a65f758bc66f43 of src.model.svm.MockClass.mock
 msgid "Return type"
 msgstr ""
 
-#: 117d58d6788344fa9164ae25cd06dd7b of src.model.svm.MockClass.mock:14
+#: 283947d9661d487999c9418dcd36edc1 of src.model.svm.MockClass.mock:14
 msgid "Examples"
 msgstr ""
+
+#~ msgid ""
+#~ "This is to test if 4-char indent"
+#~ " will be the expected format for "
+#~ "in hte docstring can be"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This is a line without 4-char "
+#~ "indent. Compare with the name var "
+#~ "where it has a complete 4-char"
+#~ msgstr ""
 

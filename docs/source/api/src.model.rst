@@ -8,5 +8,5 @@ src.model
 .. toctree::
     :maxdepth: 4
 
-    src.model.lr
-    src.model.svm
+    src.model.lr.rst
+    src.model.svm.rst
