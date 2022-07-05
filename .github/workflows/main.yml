@@ -35,5 +35,8 @@ jobs:
         uses: pre-commit/action@v3.0.0
         with:
           extra_args: --all-files
+      - name: echo-pre-commit-succed
+        working-directory: ./
+        run: echo "pre-commit succeed"
       - name: git-auto-commit
         uses: stefanzweifel/git-auto-commit-action@v4
