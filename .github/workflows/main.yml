@@ -32,11 +32,8 @@ jobs:
         working-directory: ./
         run: pip install -r requirements/docs.txt
       - name: pre-commit
-        working-directory: ./
         uses: pre-commit/action@v3.0.0
         with:
           extra_args: --all-files
-        run: pre-commit run --all-files
       - name: git-auto-commit
-        working-directory: ./
         uses: stefanzweifel/git-auto-commit-action@v4
