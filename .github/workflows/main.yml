@@ -1,0 +1,42 @@
+name: pre-commit and auto-commit
+
+on:
+  pull_request:
+    branches: 
+      - main
+    paths:
+      - docs/**
+      - src/**
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+jobs:
+  pre-commit-and-auto-commit:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.7]
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install base dependencies
+        working-directory: ./
+        run: pip install -r requirements/base.txt
+      - name: Install docs dependencies
+        working-directory: ./
+        run: pip install -r requirements/docs.txt
+#       - name: pre-commit
+#         uses: pre-commit/action@v2.0.3
+#         with:
+#           extra_args: --all-files
+#       - name: echo-pre-commit-succed
+#         working-directory: ./
+#         run: echo "pre-commit succeed"
+#       - name: git-auto-commit
+#         uses: stefanzweifel/git-auto-commit-action@v4
