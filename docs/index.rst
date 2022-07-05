@@ -14,4 +14,4 @@ Welcome to the test read the docs home page, add Chinese doc support!
     :maxdepth: 1
     :caption: API Reference
 
-    src.model <source/api/src.model>
+    src.model <source/api/src.model.rst>
