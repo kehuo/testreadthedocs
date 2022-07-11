@@ -2,7 +2,7 @@ name: pre-commit and auto-commit
 
 on:
   pull_request:
-    branches: 
+    branches:
       - main
     paths:
       - docs/**
