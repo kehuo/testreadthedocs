@@ -29,5 +29,3 @@ msgstr "构建步骤"
 #: ../../source/get_started/environment.md:4 7fed7d24b94b44c4a3a6c259a2cc2c26
 msgid "some content."
 msgstr "一些内容"
-
-
