@@ -1,7 +1,7 @@
 Homepage
 =========
 
-Welcome to the test read the docs home page, add Chinese doc support!
+Welcome to the test read the docs home page, add Chinese doc support! hk added from kehuobot devf1.
 
 .. toctree::
     :maxdepth: 1
