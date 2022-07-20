@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hk debug proj \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-04 14:02+0800\n"
+"POT-Creation-Date: 2022-07-20 15:15+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,80 +18,77 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
-#: ../../source/api/src.model.lr.rst:2 892a3d89434c491d894a272f2ca75090
+#: ../../source/api/src.model.lr.rst:2 62cf72301040443c884483aa815a4868
 msgid "src.model.lr"
 msgstr "中文 src.model.lr"
 
-#: 402caade88ec4fd292c6170ddb82779b of src.model.lr.Service:1
+#: fb4ff8ae810b44f7b2940281cab682f2 of src.model.lr.Service:1
 msgid "Bases: :py:class:`object`"
 msgstr "基类: :py:class:`object`"
 
-#: 553c4993c43b430691f738219d868e09 of src.model.lr.Service:1
+#: d47b7a03e9484e1abb220ebc2b4c6729 of src.model.lr.Service:1
 msgid "A test python class, test rst syntax :class:`pandas.TimeStamp`."
 msgstr "一个测试pyhon类，用于测试 rst 语法: :class:`pandas.TimeStamp`"
 
-#: 8c66f62c37c644328b9a4ec564e11396 9416b15395cd49829eea88169cd01a56 of
-#: src.model.lr.Service src.model.lr.Service.run
+#: 85a4d5213e63499f945e7f8e79417bd8 of src.model.lr.Service
+#: src.model.lr.Service.run
 msgid "Parameters"
 msgstr ""
 
-#: ebdd8cf0171647a0a0c30fd13eda1607 f596178281684cafad4b9f291b20b2dd of
-#: src.model.lr.Service:3 src.model.lr.Service:12
+#: b2c4763059d2497a9049ddcae7dffd84 of src.model.lr.Service:3
+#: src.model.lr.Service:12
 msgid ""
 "This is name, This is name, This is name, This is name, This is name, "
 "This is name, This is name, ok reaches new line."
-msgstr ""
-"这是名称参数，写的很长，用于测试是否能正常跨行。"
-"这里跨行了～"
+msgstr "这是名称参数，写的很长，用于测试是否能正常跨行。这里跨行了～"
 
-#: f76c6bb007ed4d2dbb4d2267739a784b ff18ee98d32542a9a7462edb3bef315c of
-#: src.model.lr.Service:6 src.model.lr.Service:19
+#: 0c98f3d418bc453e837ea8b7a180c500 of src.model.lr.Service:6
+#: src.model.lr.Service:19
 msgid ""
 "This is age, This is age, This is age, This is age, This is age, This is "
 "age, This is age, This is age, ok reaches new line."
 msgstr ""
 
-#: 9852a89a90c9403680c0d6eed94f53fa b046cd0815a34ea290ab763e2bf61430 of
-#: src.model.lr.Service
+#: 313b9a5f24204887ae15db9c898b98b2 of src.model.lr.Service
 msgid "type"
 msgstr ""
 
-#: 11e6fd0c95744ec9b7f5f5deec34c408 of src.model.lr.Service:15
+#: 447bcbadffe0451caed45aa10c2c08f0 of src.model.lr.Service:15
 msgid "str"
 msgstr ""
 
-#: 3b1d18770ae54a49939860d012719718 of src.model.lr.Service:22
+#: 6d8614865b4c4ee59c315aa6d20f67b5 of src.model.lr.Service:22
 msgid "int"
 msgstr ""
 
-#: 169117b88f054af6966dcc87ae6ed081 of src.model.lr.Service.run:1
-msgid "Run the application on the given host."
-msgstr ""
+#: 54e0b7e9f855467191d301b2dedf11c6 of src.model.lr.Service.run:1
+msgid "Run the application on the given host. huoke added 0720."
+msgstr "火可今天添加。"
 
-#: ac16ff0c75514295be88cec9f9e42996 of src.model.lr.Service.run:3
+#: 29794ea65c4c4b2fb5af7032cfe0c899 of src.model.lr.Service.run:3
 msgid "the host to run the app."
 msgstr ""
 
-#: 5836004ea1cc4bfead896c9c4a03661c of src.model.lr.Service.run:5
+#: 216658b72cec4c878badbf32552a94c6 of src.model.lr.Service.run:5
 msgid "the port to listen to the request."
 msgstr ""
 
-#: e363e1a14eba4cf4bb8458d3b1a5843f of src.model.lr.Service.run:7
+#: 0ad4154443094444a3ccab12074c23a7 of src.model.lr.Service.run:7
 msgid "if supports timeout, default is not supported."
 msgstr ""
 
-#: 240ff72ad98544c0bd3422ca8f20ffdc of src.model.lr.Service.run
+#: 207be100bcfe49deb320b9033d1cb8a0 of src.model.lr.Service.run
 msgid "Returns"
 msgstr ""
 
-#: b6b2dbc88d5d43a6ba1dd5244bbec0ec of src.model.lr.Service.run:10
+#: 63ce7c19f0404106918e0d012ead8b3a of src.model.lr.Service.run:10
 msgid "if runs succeed."
 msgstr ""
 
-#: 246aebd4205d4efbad5d8d2f0d6618b1 of src.model.lr.Service.run
+#: 88999aa801794c20b35b9f430bd042fa of src.model.lr.Service.run
 msgid "Return type"
 msgstr ""
 
-#: 6d1e071123c4410fb7cae51ad5cce581 of src.model.lr.Service.run:14
+#: e998b078b78c4139b78ab062bca01a1a of src.model.lr.Service.run:14
 msgid "Examples"
 msgstr ""
