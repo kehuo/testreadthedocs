@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hk debug proj \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-20 15:45+0800\n"
+"POT-Creation-Date: 2022-07-20 16:25+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,8 +63,8 @@ msgid "int"
 msgstr ""
 
 #: 35383978abb946d0ac81c8cb6ec89935 of src.model.lr.Service.run:1
-msgid "Run the application on the given host. huoke added at 0720."
-msgstr "huoke最新添加的内容。"
+msgid "Run the application on the given host. huoke added at 0720. hk add again"
+msgstr "huoke最新添加的内容。huoke又添加了."
 
 #: acd32a26bbb34a8c884f050f7b6ca6a3 of src.model.lr.Service.run:3
 msgid "the host to run the app."

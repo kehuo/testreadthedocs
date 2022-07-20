@@ -24,7 +24,7 @@ class Service(object):
 
     def run(self, host: str, port: int, timeout: bool = False) -> bool:
         """
-        Run the application on the given host. huoke added at 0720.
+        Run the application on the given host. huoke added at 0720. hk add again
 
         Args:
             host(str): the host to run the app.
@@ -47,4 +47,4 @@ class Service(object):
                 a = 2
                 print("this is the second code block")
         """
-        return True
+        return False
