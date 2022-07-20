@@ -24,7 +24,7 @@ class Service(object):
 
     def run(self, host: str, port: int, timeout: bool = False) -> bool:
         """
-        Run the application on the given host.
+        Run the application on the given host. huoke added at 0720.
 
         Args:
             host(str): the host to run the app.

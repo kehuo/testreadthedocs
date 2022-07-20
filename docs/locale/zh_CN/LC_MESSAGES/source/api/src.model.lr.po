@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hk debug proj \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-04 14:02+0800\n"
+"POT-Creation-Date: 2022-07-20 15:45+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,80 +18,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
-#: ../../source/api/src.model.lr.rst:2 892a3d89434c491d894a272f2ca75090
+#: ../../source/api/src.model.lr.rst:2 2f188c1f78e44823a4a8e5c7fbcbef8a
 msgid "src.model.lr"
 msgstr "中文 src.model.lr"
 
-#: 402caade88ec4fd292c6170ddb82779b of src.model.lr.Service:1
+#: 04575b6404424d9c96ad8344ea0204a6 of src.model.lr.Service:1
 msgid "Bases: :py:class:`object`"
 msgstr "基类: :py:class:`object`"
 
-#: 553c4993c43b430691f738219d868e09 of src.model.lr.Service:1
+#: 7016fab8a55346148d8f1cdfe2ec7b18 of src.model.lr.Service:1
 msgid "A test python class, test rst syntax :class:`pandas.TimeStamp`."
 msgstr "一个测试pyhon类，用于测试 rst 语法: :class:`pandas.TimeStamp`"
 
-#: 8c66f62c37c644328b9a4ec564e11396 9416b15395cd49829eea88169cd01a56 of
+#: 29d98ceb9bdf4938bab01dad465a8b7e 76b26b9bf75644c198d3e63cc6be4715 of
 #: src.model.lr.Service src.model.lr.Service.run
 msgid "Parameters"
 msgstr ""
 
-#: ebdd8cf0171647a0a0c30fd13eda1607 f596178281684cafad4b9f291b20b2dd of
+#: 31b498ff812a44dbafe83d94344efc1d ff757f943b3a4327a4ece85b42913c50 of
 #: src.model.lr.Service:3 src.model.lr.Service:12
 msgid ""
 "This is name, This is name, This is name, This is name, This is name, "
 "This is name, This is name, ok reaches new line."
-msgstr ""
-"这是名称参数，写的很长，用于测试是否能正常跨行。"
-"这里跨行了～"
+msgstr "这是名称参数，写的很长，用于测试是否能正常跨行。这里跨行了～"
 
-#: f76c6bb007ed4d2dbb4d2267739a784b ff18ee98d32542a9a7462edb3bef315c of
+#: 6298c8aecb274dd287e6df98c438e789 7c7f3fed1bda477bbd1ebe22abe904cf of
 #: src.model.lr.Service:6 src.model.lr.Service:19
 msgid ""
 "This is age, This is age, This is age, This is age, This is age, This is "
 "age, This is age, This is age, ok reaches new line."
 msgstr ""
 
-#: 9852a89a90c9403680c0d6eed94f53fa b046cd0815a34ea290ab763e2bf61430 of
+#: a88e70813c804727b4948e2d08f26b48 f90bede189614b9783e25aaae5141163 of
 #: src.model.lr.Service
 msgid "type"
 msgstr ""
 
-#: 11e6fd0c95744ec9b7f5f5deec34c408 of src.model.lr.Service:15
+#: a478624e57634e0580ca82f75c906113 of src.model.lr.Service:15
 msgid "str"
 msgstr ""
 
-#: 3b1d18770ae54a49939860d012719718 of src.model.lr.Service:22
+#: d77185658c1546af8c2b2a08f2df06f9 of src.model.lr.Service:22
 msgid "int"
 msgstr ""
 
-#: 169117b88f054af6966dcc87ae6ed081 of src.model.lr.Service.run:1
-msgid "Run the application on the given host."
-msgstr ""
+#: 35383978abb946d0ac81c8cb6ec89935 of src.model.lr.Service.run:1
+msgid "Run the application on the given host. huoke added at 0720."
+msgstr "huoke最新添加的内容。"
 
-#: ac16ff0c75514295be88cec9f9e42996 of src.model.lr.Service.run:3
+#: acd32a26bbb34a8c884f050f7b6ca6a3 of src.model.lr.Service.run:3
 msgid "the host to run the app."
 msgstr ""
 
-#: 5836004ea1cc4bfead896c9c4a03661c of src.model.lr.Service.run:5
+#: b7a064cef2534996889a65e738c838d8 of src.model.lr.Service.run:5
 msgid "the port to listen to the request."
 msgstr ""
 
-#: e363e1a14eba4cf4bb8458d3b1a5843f of src.model.lr.Service.run:7
+#: f2b406ddfc924820b66e7f7c31135b8b of src.model.lr.Service.run:7
 msgid "if supports timeout, default is not supported."
 msgstr ""
 
-#: 240ff72ad98544c0bd3422ca8f20ffdc of src.model.lr.Service.run
+#: 41923c4515984dc9ab6cd48c024a7d42 of src.model.lr.Service.run
 msgid "Returns"
 msgstr ""
 
-#: b6b2dbc88d5d43a6ba1dd5244bbec0ec of src.model.lr.Service.run:10
+#: f5723d3aebda4519a97a428246f80eb3 of src.model.lr.Service.run:10
 msgid "if runs succeed."
 msgstr ""
 
-#: 246aebd4205d4efbad5d8d2f0d6618b1 of src.model.lr.Service.run
+#: 40e76d91e0e04f5590afac86b7a1c5b6 of src.model.lr.Service.run
 msgid "Return type"
 msgstr ""
 
-#: 6d1e071123c4410fb7cae51ad5cce581 of src.model.lr.Service.run:14
+#: b567755256fe4196be06350312c0ba74 of src.model.lr.Service.run:14
 msgid "Examples"
 msgstr ""
+
+#~ msgid "Run the application on the given host."
+#~ msgstr ""
+
