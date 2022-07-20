@@ -4,7 +4,7 @@
 
 class Service(object):
     """
-    A test python class, test rst syntax :class:`pandas.TimeStamp`.
+    A test python class, test rst syntax :class:`pandas.TimeStamp`. hk added from devf1.
 
     Args:
         name(str): This is name, This is name, This is name, This is name, This is name, This is name,
