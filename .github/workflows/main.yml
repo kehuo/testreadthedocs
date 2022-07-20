@@ -1,4 +1,4 @@
-name: pre-commit and auto-commit
+name: test
 
 on:
   pull_request:
