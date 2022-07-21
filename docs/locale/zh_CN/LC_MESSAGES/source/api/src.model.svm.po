@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hk debug proj \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-05 09:40+0800\n"
+"POT-Creation-Date: 2022-07-21 19:12+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,79 +18,83 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
-#: ../../source/api/src.model.svm.rst:2 8e1896f1d5804e55aa33ff28b287faae
+#: ../../source/api/src.model.svm.rst:2 85cafb0ada14439aa4c09b5d95c1142c
 msgid "src.model.svm"
 msgstr ""
 
-#: 4bc5ce4bdc004c14b03deea806211b35 of src.model.svm.MockClass:1
+#: e4d5068350834aeaac2ebb733769e2b6 of src.model.svm.MockClass:1
 msgid "Bases: :py:class:`object`"
 msgstr ""
 
-#: 770d4f39ed244e38a352026432b9794a of src.model.svm.MockClass:1
+#: 7d275cc1bcf94e27a498a4381288f639 of src.model.svm.MockClass:1
 msgid "A test python mock class, test rst syntax :class:`pandas.TimeStamp`."
-msgstr ""
+msgstr "一个测试类"
 
-#: 04536644d2e149d2b765a479348fc49c 9847625412e349b0b2697d370d257a66 of
+#: 7a5e95a85bb041a3991c348761aa3ab9 ca288c337eec4f5b971ebaf017d60a8a of
 #: src.model.svm.MockClass src.model.svm.MockClass.mock
 msgid "Parameters"
 msgstr ""
 
-#: 024214746141459989e806b60e24388e 65ff180763eb414499a1a1548b93b3a6 of
-#: src.model.svm.MockClass:3 src.model.svm.MockClass:12
+#: 33f86e698ae84f2f8cf4eee1637e6122 c371aaef975f4dada3f6bf601591e825 of
+#: src.model.svm.MockClass:3 src.model.svm.MockClass:14
 msgid ""
 "This is to test if 4-char indent will be the expected format for in hte "
 "docstring can be parsed by the sphinx."
-msgstr ""
+msgstr "用于测试4个缩进字符是否造成解析失败。"
 
-#: e10a6e83325d443a9037f15b6a6b3d43 f5c1f9425ebf4679a5e7cb1a29350e38 of
-#: src.model.svm.MockClass:6 src.model.svm.MockClass:19
+#: 722758f566954f66b94951b59b6e3083 edde4e0b9c324c0f80b01614bf099e57 of
+#: src.model.svm.MockClass:6 src.model.svm.MockClass:21
 msgid ""
 "This is a line without 4-char indent. Compare with the name var where it "
 "has a complete 4-char indent that may not support."
-msgstr ""
+msgstr "这一行没有缩进，是否会失败。"
 
-#: 78845ed8c6ee4ca5b2dcd0b5b9bbeb25 dbd188c7a7154199ad618b8d9fa1e698 of
+#: 2aea4191dcf0419d814eb388832b00e4 of src.model.svm.MockClass:9
+msgid "The job of the Mockclass."
+msgstr "mock 类的任务。"
+
+#: 2405193a377144d88da6cac864a01535 ce975a66008a4a848bec547fc76665dd of
 #: src.model.svm.MockClass
 msgid "type"
 msgstr ""
 
-#: d680a919ad0147b7b0b9f9bb4aff1fee of src.model.svm.MockClass:15
+#: 90f0d283a497470f94072ac817d840c0 of src.model.svm.MockClass:17
 msgid "str"
 msgstr ""
 
-#: 652f6179737a4f3ca4c3390997655a8a of src.model.svm.MockClass:22
+#: 2e886f6110de415da02ae132346209ac of src.model.svm.MockClass:24
 msgid "int"
 msgstr ""
 
-#: b50aefef1a35466abdfcb333f69572ee of src.model.svm.MockClass.mock:1
+#: 3360c253063e4663a9cd86f988c33ea4 of src.model.svm.MockClass.mock:1
 msgid "Run the application on the given host."
-msgstr ""
+msgstr "在给定host上运行应用。"
 
-#: 700b9dea2a05453180dfae07a70aa025 of src.model.svm.MockClass.mock:3
+#: 8892bbbec1084b809c316ac5129f5482 of src.model.svm.MockClass.mock:3
 msgid "the host to run the app."
-msgstr ""
+msgstr "运行app的host。"
 
-#: 29fac95e10874af1a332906386de503a of src.model.svm.MockClass.mock:5
+#: 5890f58a623948e28229530493e1c72c of src.model.svm.MockClass.mock:5
 msgid "the port to listen to the request."
 msgstr ""
 
-#: 312e37af598a4c078fb5b5a01094c0d6 of src.model.svm.MockClass.mock:7
+#: 1d36da01fc2040eead1f0a4626985218 of src.model.svm.MockClass.mock:7
 msgid "if supports timeout, default is not supported."
 msgstr ""
 
-#: 937a3ce769904708a08d89885dd34473 of src.model.svm.MockClass.mock
+#: f3912fe21aef4c1ea58022da53eb0557 of src.model.svm.MockClass.mock
 msgid "Returns"
 msgstr ""
 
-#: 57d5761aff4c4199ac7648e82365743b of src.model.svm.MockClass.mock:10
+#: d1895d675e814c2393355284a3c42684 of src.model.svm.MockClass.mock:10
 msgid "if runs succeed."
 msgstr ""
 
-#: 4b30c84fbe20455fa1a65f758bc66f43 of src.model.svm.MockClass.mock
+#: 2b53e8b045d94bd1aad8d7a76209a438 of src.model.svm.MockClass.mock
 msgid "Return type"
 msgstr ""
 
-#: 283947d9661d487999c9418dcd36edc1 of src.model.svm.MockClass.mock:14
+#: f8eba1559c1c43b6ae3322c408ac5893 of src.model.svm.MockClass.mock:14
 msgid "Examples"
 msgstr ""
 
@@ -105,3 +109,4 @@ msgstr ""
 #~ "indent. Compare with the name var "
 #~ "where it has a complete 4-char"
 #~ msgstr ""
+

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hk debug proj \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-04 17:53+0800\n"
+"POT-Creation-Date: 2022-07-21 19:12+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgstr "环境搭建"
 msgid "Build Model"
 msgstr "构建模型"
 
-#: ../../index.rst:6 458d52cfda26401faa68b2c0ebad9f62
+#: ../../index.rst:6 5451628643844fc1b1a70fb1dfd15c89
 msgid "User Guide"
 msgstr "用户指南"
 
@@ -34,14 +34,16 @@ msgstr "用户指南"
 msgid "src.model"
 msgstr "src.model"
 
-#: ../../index.rst:13 aa334e9a076e4e078413bf91d9b871b7
+#: ../../index.rst:13 55af07c84c064d0ebc33cfba148c0ec9
 msgid "API Reference"
 msgstr "API文档参考"
 
-#: ../../index.rst:2 5e094bed1d2c484489da64cd0a1eb85d
+#: ../../index.rst:2 a4a744be4510460bb836b7fd1a163b08
 msgid "Homepage"
 msgstr "首页"
 
-#: ../../index.rst:4 b3e4f941c5bb46fb8599ad80bead2e30
-msgid "Welcome to the test read the docs home page, add Chinese doc support!"
+#: ../../index.rst:4 0a00cd53ffaf4d3eaf2de208c464673d
+msgid ""
+"Welcome to the test read the docs home page, add Chinese doc support! hk "
+"added from kehuobot devf1."
 msgstr "欢迎访问文档首页"

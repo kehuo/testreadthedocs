@@ -11,6 +11,7 @@ class MockClass(object):
             parsed by the sphinx.
         age(int): This is a line without 4-char indent. Compare with the name var where it has a complete 4-char
             indent that may not support.
+        job(str): The job of the Mockclass.
 
     Attributes:
         _name(str): This is to test if 4-char indent will be the expected format for in hte docstring can be
@@ -21,6 +22,7 @@ class MockClass(object):
     def __init__(self, name: str, age: str, job: str):
         self._name = name
         self._age = age
+        self._job = job
 
     def mock(self, host: str, port: int, timeout: bool = False) -> bool:
         """
